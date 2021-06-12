@@ -1,0 +1,5 @@
+/*
+alter table empresas add constraint fk_codigoactividad foreign key(codigoactividad) references tipoactividad(codigoadtividad);
+*/
+
+select * from empresas;
